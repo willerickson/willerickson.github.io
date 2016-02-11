@@ -17,7 +17,9 @@
     </div>
     
     <div class="container>
-      <p>Type in nucleotide sequence</p>
+      <p><?php
+        echo "Enter nucleotide sequence";
+        >?</p>
       
     </div>
     
